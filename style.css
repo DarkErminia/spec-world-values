@@ -1,0 +1,91 @@
+:root {
+    --background: hsl(0, 0%, 6%);
+    --text: hsl(0, 0%, 100%);
+    --button: hsl(0, 0%, 25%);
+    --buttonShadow: hsl(0, 0%, 17.5%);
+    --plus2: hsl(210 100% 30%);
+    --plus1: hsl(210 75% 50%);
+    --neutral: hsl(0 0% 60%);
+    --minus1: hsl(0 75% 50%);
+    --minus2: hsl(0 100% 30%);
+    --plus2shadow: hsl(210 100% 15%);
+    --plus1shadow: hsl(210 75% 25%);
+    --neutralshadow: hsl(0 0% 30%);
+    --minus1shadow: hsl(0 75% 25%);
+    --minus2shadow: hsl(0 100% 15%);
+}
+
+* {
+    color: var(--text);
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+html,
+body {
+    background-color: var(--background);
+    width: 100%;
+}
+
+section {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+#title {
+    font-size: 2vmax;
+    margin: 1vmax auto;
+}
+
+button {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 1vmax auto;
+    border: none;
+    display: flex;
+    padding: 1vmax;
+    font-size: 1.5vmax;
+    cursor: pointer;
+    width: 24vmax;
+    position: relative;
+    background-color: var(--button);
+    box-shadow: 0 .5vmax var(--buttonShadow);
+    border-radius: 1vmax;
+    text-transform: uppercase;
+}
+
+button:hover {
+    filter: brightness(1.1);
+}
+
+button:active {
+    box-shadow: none !important;
+    top: .5vmax;
+}
+
+#counter {
+    font-size: 1.5vmax;  
+    margin: 1vmax auto; 
+}
+
+#question {
+    background-color: var(--button);
+    width: 60vmax;
+    height: 6vmax;
+    margin: 0 auto 1vmax auto;
+    border-radius: 2vmax;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2vmax;
+    padding: 2vmax;
+}
+
+#back {
+    width: 12vmax;
+}

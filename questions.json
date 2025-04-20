@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Without caution, our technological development could lead to human extinction.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "There is no real progress. History repeats itself endlessly, and we are doomed to repeat its lessons.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "With the likely trajectory of the world, we will be headed towards a utopian future.",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "With the likely trajectory of the world, we will be headed towards a dystopian future.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Despite short-term setbacks, the arc of history bends towards progress.",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All phenomena, including life and consciousness, can ultimately be reduced to material and scientific processes.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "There are higher powers or gods that cannot be fully explained through science.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Consciousness is a fundamental feature of the universe, not just a byproduct of the brain.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Religious belief will remain evolutionarily advantageous, even in an advanced technological future.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Secularism is not sustainable and will lose influence over time.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Humans will be able to preserve its original human form.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Humanity will inevitably be replaced by artificial or post-human descendants.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Even far in to the future, human beings will remain recognizably similar to us today.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "AIs, posthumans, machines, and other “artificial life” will be accepted as people in the dominant society.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "In the future, most people will be visibly altered, or partially/fully artificial.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "There are no higher principles, only the power struggles of competing groups.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Survival of the fittest drives history more than reason or compassion.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Altruism and idealism can be evolutionarily advantageous in of itself.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Might makes right, rather than right making might.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Idealism and ideology are powerful engines of change in this world.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Eventually, all societies will converge on a single ideological framework.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "History trends toward global unification and centralized governance.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Cultural and regional distinctions have largely disappeared in the future.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "A global or pan-human identity has replaced national and ethnic ones.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Most people share the same moral values, even if they disagree on the details.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Humanity focused on fixing Earth's problems before exploring the stars.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "We prioritized sustainability and accountability over expansion.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All life expands aggressively: it's a survival imperative.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Instead of colonizing space, humanity turned inwards toward perfection.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Investing in space colonization was ultimately worth it.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "In the future, some nations, cultures, or religions are still recognizable.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Daily life in the future still feels familiar compared to today.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Families, governments, and organizations remain broadly recognizable.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Tradition remains an important and positive guide in future society.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Radical social changes, even reckless ones, led to a better and stronger world.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "A technological singularity occurred and changed humanity permanently.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "Despite early breakthroughs, technology hit a plateau.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "Some technologies were rejected in order to preserve human survival.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "New technology often causes more problems than it solves.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "Humans are obsolete, or soon will be.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "The galaxy, nay, the entire universe is humanity's birthright.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+        ]
+    },
+    {
+        "text": "The idea of human exceptionalism is dangerous and arrogant.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "We should become equals in a federation with alien civilizations, if they exist.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "The universe would not notice or care if humanity went extinct.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "Creation has put humanity in a special position.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+        ]
+    }
+]

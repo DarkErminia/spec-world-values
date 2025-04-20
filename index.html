@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cod Merchant's Test</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <section id="home">
+        <div id="title">Cod Merchant's Test</div>
+        <button onclick="show('quiz')">Begin</button>
+    </section>
+    <section id="quiz">
+        <div id="counter">Loading...</div>
+        <div id="question">Loading...</div>
+        <button onclick="addScore(2)" style="background-color: var(--plus2);box-shadow: 0 .5vw var(--plus2shadow);">Strongly agree</button>
+        <button onclick="addScore(1)" style="background-color: var(--plus1);box-shadow: 0 .5vw var(--plus1shadow);"">Agree</button>
+        <button onclick="addScore(0)" style="background-color: var(--neutral);box-shadow: 0 .5vw var(--neutralshadow);"">Neutral</button>
+        <button onclick="addScore(-1)" style="background-color: var(--minus1);box-shadow: 0 .5vw var(--minus1shadow);"">Disagree</button>
+        <button onclick="addScore(-2)" style="background-color: var(--minus2);box-shadow: 0 .5vw var(--minus2shadow);"">Strongly disagree</button>
+        <button onclick="back()" id="back">Back</button>
+    </section>
+    <section id="results">
+        <canvas id="result-canvas" width="800" height="680"></canvas>
+        <button id="download-btn">Download as PNG</button>
+        <button onclick="start()" id="back">Back</button>
+    </section>
+    <script src="./script.js"></script>
+</body>
+</html>
