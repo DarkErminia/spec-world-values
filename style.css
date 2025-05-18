@@ -37,8 +37,12 @@ section {
     display: block;
 }
 
-.explanation {
+.explanation p{
     text-align: left;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
 }
 
 #title {
