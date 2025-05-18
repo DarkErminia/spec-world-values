@@ -60,11 +60,11 @@ function back() {
 }
 
 function start() {
-    show()
     count = 0
     score = [0, 0, 0, 0, 0, 0, 0, 0, 0]
     answers = []
     update()
+    show()
 }
 
 function calculateMaxScores() {
