@@ -15,13 +15,13 @@
     --minus2shadow: hsl(0 100% 15%);
 }
 
-p.interactable
+h3.interactable
   color: deepskyblue;
   text-decoration: underline;
   cursor: pointer;
 }
 
-p.interactable:hover {
+h3.interactable:hover {
   color: royalblue;
   text-decoration: none;
 }
