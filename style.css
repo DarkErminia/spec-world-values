@@ -15,7 +15,7 @@
     --minus2shadow: hsl(0 100% 15%);
 }
 
-h3.interactable
+h3.interactable {
   color: deepskyblue;
   text-decoration: underline;
   cursor: pointer;
