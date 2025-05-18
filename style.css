@@ -16,13 +16,13 @@
 }
 
 p.interactable
-  color: blue;
+  color: deepskyblue;
   text-decoration: underline;
   cursor: pointer;
 }
 
 p.interactable:hover {
-  color: darkblue;
+  color: royalblue;
   text-decoration: none;
 }
 
