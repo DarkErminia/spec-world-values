@@ -3,6 +3,19 @@ let count = 0
 let questions = []
 const sections = ["home", "quiz", "results"]
 let answers = []
+let showexplanation = false;
+
+function toggleexplanation() {
+    if (showexplanation == true) {
+        document.getElementById("hiddentext1").style.display = "none";
+        document.getElementById("hiddentext2").style.display = "none";
+        showexplanation = false;
+    } else {
+        document.getElementById("hiddentext1").style.display = "initial";
+        document.getElementById("hiddentext2").style.display = "initial";
+        showexplanation = true;
+    }
+}
 
 function show(section = "home") {
     window.scrollTo({ top: 0, behavior: "auto" })
