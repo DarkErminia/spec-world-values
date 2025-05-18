@@ -37,6 +37,10 @@ section {
     display: block;
 }
 
+.explanation {
+    text-align: left;
+}
+
 #title {
     font-size: 2vmax;
     margin: 1vmax auto;
