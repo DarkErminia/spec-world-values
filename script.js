@@ -91,7 +91,7 @@ function drawCanvas(canvas) {
     const xPos = (canvas.width - barWidth) / 2
     const labelYOffset = 50
     const axisLabels = [
-        "Optimistic VS Pessimistic", "Material VS Spiritual", "Purist VS Transhumanist", "Darwinist VS Idealist", "Homogenous VS Heterogenous", "Isolationist VS Expansionist", "Traditional VS Progressive", "Primitive VS Accelerationist", "Cosmicism VS Humanism"
+        "Optimistic VS Pessimistic", "Material VS Spiritual", "Purist VS Transhumanist", "Darwinist VS Idealist", "Homogenous VS Heterogenous", "Isolationist VS Expansionist", "Traditional VS Progressive", "Primitive VS Accelerationist", "Cosmic Indifference VS Anthropocentrism"
     ]
     for (let i = 0; i < 9; i++) {
         const percentage = percentages[i]
