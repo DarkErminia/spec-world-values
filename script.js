@@ -7,13 +7,13 @@ let showexplanation = false;
 
 function toggleexplanation() {
     if (showexplanation == true) {
+        showexplanation = false;
         document.getElementById("hiddentext1").style.display = "none";
         document.getElementById("hiddentext2").style.display = "none";
-        showexplanation = false;
     } else {
+        showexplanation = true;
         document.getElementById("hiddentext1").style.display = "initial";
         document.getElementById("hiddentext2").style.display = "initial";
-        showexplanation = true;
     }
 }
 
