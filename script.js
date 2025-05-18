@@ -60,7 +60,7 @@ function back() {
 }
 
 function start() {
-    show("quiz")
+    show("")
     count = 0
     score = [0, 0, 0, 0, 0, 0, 0, 0, 0]
     answers = []
