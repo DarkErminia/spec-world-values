@@ -15,6 +15,17 @@
     --minus2shadow: hsl(0 100% 15%);
 }
 
+h1.interactable { /* Apply this class to your h1 */
+  color: blue; /* Make it look like a link */
+  text-decoration: underline; /* Optional: Add an underline */
+  cursor: pointer; /* Change the cursor to a pointer (hand) on hover */
+}
+
+h1.interactable:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+
 * {
     color: var(--text);
     font-family: sans-serif;
